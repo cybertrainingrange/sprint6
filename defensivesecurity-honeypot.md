@@ -52,14 +52,16 @@ The choice of Honeypot as our Sprint 6 Capstone Project serves as a testament to
 
 ## Summary 🤖
 
-[Industry Tools for SIEM](https://docs.google.com/document/d/1vn7k2nV93C_qWizyi8VU3XuGbhfcCmKx-DiblM2Rpc8/edit?usp=drive_link)
+[Defensive Security using Honeypot](https://docs.google.com/document/d/1vn7k2nV93C_qWizyi8VU3XuGbhfcCmKx-DiblM2Rpc8/edit?usp=drive_link)
 
 
 
 
 ## Technical Documentation 🤖
 
-[Industry Tools for SIEM](https://docs.google.com/document/d/17Ad8RLsRuk_15sBfVitG0E_llJ5I6Zx7yXlJ1vC5234/edit?usp=drive_link)
+[Deception Technology: Enhancing Cybersecurity Defense 
+with Honeywell Honeypot
+](https://docs.google.com/document/d/17Ad8RLsRuk_15sBfVitG0E_llJ5I6Zx7yXlJ1vC5234/edit?usp=drive_link)
 
 
 
