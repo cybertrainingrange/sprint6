@@ -20,7 +20,10 @@ In the dynamic world of cybersecurity, it is imperative that we adopt a proactiv
 ### The Significance of Honeypots:
 Honeypots serve a multifaceted role in our defensive strategy. They act as early warning systems, alerting us to potential breaches and allowing us to take timely action. Moreover, they provide an invaluable opportunity to study the motives and methodologies of attackers, enabling us to fine-tune our defensive measures. Honeypots also play a crucial role in diverting attention away from critical assets, ensuring that attackers waste their time and resources on decoy systems rather than infiltrating our vital infrastructure.
 
+
 ![Honeypot](https://drive.google.com/uc?export=view&id=1lwvNkq2fMqUz6yd0ZYzZesb7mOxGj13T)
+
+
 
 Honeypots are a form of deception technology that plays a valuable role in cybersecurity by taking back the initiative from attackers. Deception technology involves creating an environment of false information and simulations to mislead adversaries, leading them to fall into traps and waste their time and resources. This increases the complexity and uncertainty of their intrusion attempts.
 
