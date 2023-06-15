@@ -26,7 +26,7 @@ Honeypots are a form of deception technology that plays a valuable role in cyber
 
 By using honeypots, defenders can achieve several benefits. Firstly, they can gather comprehensive attack logs and gain insights into the tactics, techniques, and procedures used by attackers. This information is valuable for security analysts in understanding the threat landscape and developing effective countermeasures. Additionally, honeypots allow defenders to trace the source of attacks and monitor the behaviors of attackers.
 
-![Honeypot](https://drive.google.com/uc?export=view&id=1i-0jco93v8JaeRy4TC4yzferys9FfJ_c)
+![Honeypot](https://drive.google.com/uc?export=view&id=1lfajVDe7tQ0uTNylRm0viOpQCQsTB8xg)
 
 ### Utilizing AWS and T-pot Honeypot:
 To effectively showcase the practical implementation of honeypots, we have chosen to leverage the vast capabilities of Amazon Web Services (AWS). AWS offers a robust and scalable infrastructure that allows us to deploy and manage honeypots with ease. By harnessing AWS services such as EC2, VPC, and CloudWatch, we can ensure the seamless operation, monitoring, and analysis of our honeypot environment.
