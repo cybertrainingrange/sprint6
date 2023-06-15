@@ -1,4 +1,4 @@
-# sprint6# Cyber Range Team Capstone Project Summary - Sprint 6
+# Cyber Range Team Capstone Project Summary - Sprint 6
 
 ## TEMPLATE ONLY
 
