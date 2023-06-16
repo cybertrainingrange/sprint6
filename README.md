@@ -4,75 +4,21 @@
 ![SOC Analyst](https://drive.google.com/uc?export=view&id=1EXIP4yFpO4TzAXPNY9LqIsOhkIJC8Qdj)
 
 
+In today's digital landscape, cybersecurity is of paramount importance to organizations across all industries. As part of our Capstone Project at The Knowledge House, our team embarked on a journey to develop a comprehensive cybersecurity training range. We aimed to provide hands-on experience in offensive and defensive security, Linux network operations, monitoring analysis, and the implementation of Security Information and Event Management (SIEM) systems. Leveraging the powerful capabilities of Amazon Web Services (AWS), we created a dynamic and immersive learning environment that enabled us to grow and develop essential cybersecurity skills.
+
+### Empowering Learners: Developing Essential Skills through Offensive and Defensive Security Techniques
+The increasing frequency and complexity of cyber threats necessitate the continuous development of cybersecurity expertise. Our Capstone Project aimed to bridge the skills gap by designing a training range that would simulate real-world scenarios and enable participants to learn and apply cybersecurity concepts effectively. Through a combination of offensive and defensive security techniques, Linux network operations, monitoring analysis, and SIEM implementation, we sought to equip learners with the necessary skills to protect critical systems and data.
+
+## Offensive Security:
+To develop a holistic understanding of cybersecurity, we delved into offensive security practices. Ethical hacking and penetration testing methodologies allowed us to identify vulnerabilities in systems, networks, and applications. By emulating real-world attacks and exploiting potential weaknesses, we gained valuable insights into the mindset and techniques employed by malicious actors. Armed with this knowledge, we devised strategies to strengthen the defensive posture of our simulated environments.
+
+
+![Analysis Dashboard](https://drive.google.com/uc?export=view&id=1r_aR6a6cGm6LlQ0BS30lwtFv4ldr0KrC)
 
 
 
 
-SIEM stands for Security Information and Event Management. It is a security solution that helps organizations detect, analyze, and respond to security threats before they harm business operations. SIEM combines both security information management (SIM) and security event management (SEM) into one security management system. 
-
-
-
-
-
-| ![Siem 1](https://drive.google.com/uc?export=view&id=1-9ax9BYlPEiK0mPzLbdMkOCHYYxny-r5)|
-| ----------------------- |
-
-
-
-
-
-SIEM systems collect, analyze, and correlate security event information from various sources within an organization's IT infrastructure. These sources can include network devices, servers, firewalls, intrusion detection systems, antivirus software, and other security systems. The SIEM platform aggregates and normalizes the collected data, allowing security analysts to gain a holistic view of the organization's security status. 
-
-
-
-
-| ![Analysis Dashboard](https://drive.google.com/uc?export=view&id=1r_aR6a6cGm6LlQ0BS30lwtFv4ldr0KrC)  |
-| ----------------------- |
-
-
-
-
-### The Key functions of SIEM include:
-
-- Collecting security data from a variety of sources, including network devices, servers, applications, and security appliances.
-- Analyzing the collected data to identify potential threats and anomalies.
-- Generating alerts when potential threats are identified.
-- Investigating alerts to determine if they are malicious or benign.
-- Taking action to mitigate threats, such as blocking traffic, quarantining systems, or resetting passwords.
-
-
-
-
-| [SOC Analyst](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC) |
-| ----------------------- | 
-
-
-
-
-### Additional key functions are:
-1. Log management: SIEM solutions collect and store log data from diverse sources, enabling centralized management and analysis of security events.
-2. Real-time event correlation: The system correlates and analyzes security events in real time, identifying patterns and relationships that may indicate potential security threats.
-3. Alerting and notification: SIEM systems generate alerts and notifications based on predefined rules or behavioral anomalies, enabling timely response to security incidents.
-4. Incident response and investigation: SIEM platforms provide tools for incident response, allowing security teams to investigate security events, track the progression of an incident, and mitigate potential risks.
-5. Compliance management: SIEM solutions assist organizations in meeting regulatory compliance requirements by collecting and analyzing relevant security event data and generating compliance reports.
-
-
-
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1GEoW-tPaDUYdvnFZKK3yoal4QvrBYt3I)|
-| ----------------------- | 
-
-
-
-### SIEM is important and useful in cybersecurity for several reasons:
-**Threat Detection:** SIEM systems enhance an organization's ability to detect and respond to security threats. By analyzing and correlating security events in real time, they can identify malicious activities, such as unauthorized access attempts, malware infections, or suspicious network behavior.
-
-**Incident Response:** SIEM platforms provide incident response capabilities, enabling security teams to investigate and mitigate security incidents more efficiently. They help in identifying the scope of an incident, containing it, and applying appropriate remediation measures.
-
-**Centralized Visibility:** SIEM solutions offer a centralized view of an organization's security posture. This enables security analysts to monitor and analyze security events from various systems and sources in a unified manner, providing better insights into potential threats.
-
-**Compliance:** SIEM technology assists organizations in meeting regulatory compliance requirements. It helps collect, manage, and analyze security event data to generate compliance reports and demonstrate adherence to security standards and regulations.
- 
- **Log Management:** SIEM systems collect and store log data, which can be valuable for forensic analysis and investigating security incidents. Logs can provide crucial evidence for identifying the cause and impact of a security event.
+[SOC Analyst](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC) 
 
 
 
