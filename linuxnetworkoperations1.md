@@ -24,7 +24,7 @@ Spafford, E. H. (1991). An analysis of the Internet worm. In UNIX Security Sympo
 
 ## Technical Documentation 🤖
 
-[Threat Intelligence and SIEM](https://docs.google.com/document/d/1qTGVwjBgo6Z0dg6m_5t7Z-JhauqFQbrKNjb-yb_VbbI/edit?usp=drive_link)
+[Cost Efficient AWS Security: Building a VPC with a Bastion Host](https://docs.google.com/document/d/1qTGVwjBgo6Z0dg6m_5t7Z-JhauqFQbrKNjb-yb_VbbI/edit?usp=drive_link)
 
 ## 🔗 Author 👩🏽‍💻 
 
