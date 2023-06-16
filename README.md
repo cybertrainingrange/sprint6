@@ -15,7 +15,7 @@ The increasing frequency and complexity of cyber threats necessitate the continu
 To develop a holistic understanding of cybersecurity, we delved into offensive security practices. Ethical hacking and penetration testing methodologies allowed us to identify vulnerabilities in systems, networks, and applications. By emulating real-world attacks and exploiting potential weaknesses, we gained valuable insights into the mindset and techniques employed by malicious actors. Armed with this knowledge, we devised strategies to strengthen the defensive posture of our simulated environments.
 
 
-[SOC Analyst](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC) 
+[Defensive Security](https://drive.google.com/uc?export=view&id=1vE6BYID62honMZYDunm22zh4KzikWlth) 
 
 ## Defensive Security
 Building on our offensive security knowledge, we explored defensive security practices. We focused on implementing robust security controls and technologies to protect against unauthorized access, data breaches, and system disruptions. Our team utilized access controls, firewalls, intrusion detection and prevention systems, and encryption mechanisms to safeguard our systems and data. We also developed incident response plans to ensure swift and effective action in the event of a security incident.
