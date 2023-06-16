@@ -9,7 +9,7 @@ In today's digital landscape, cybersecurity is of paramount importance to organi
 ### Empowering Learners: Developing Essential Skills through Offensive and Defensive Security Techniques
 The increasing frequency and complexity of cyber threats necessitate the continuous development of cybersecurity expertise. Our Capstone Project aimed to bridge the skills gap by designing a training range that would simulate real-world scenarios and enable participants to learn and apply cybersecurity concepts effectively. Through a combination of offensive and defensive security techniques, Linux network operations, monitoring analysis, and SIEM implementation, we sought to equip learners with the necessary skills to protect critical systems and data.
 
-## Offensive Security:
+## Offensive Security
 To develop a holistic understanding of cybersecurity, we delved into offensive security practices. Ethical hacking and penetration testing methodologies allowed us to identify vulnerabilities in systems, networks, and applications. By emulating real-world attacks and exploiting potential weaknesses, we gained valuable insights into the mindset and techniques employed by malicious actors. Armed with this knowledge, we devised strategies to strengthen the defensive posture of our simulated environments.
 
 
