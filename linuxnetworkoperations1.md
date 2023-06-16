@@ -18,20 +18,9 @@ The cost-effectiveness of a VPC comes from the selection of the right services b
 
 ## References
 
-Amazon Web Services. (2023). AWS Security Services. Retrieved from [AWS](https://aws.amazon.com/security/)
-Krebs, B. (2020). A 'stunning' attack rattles an information security industry. The New York Times. Retrieved from [New York Timess](https://www.nytimes.com/2020/12/14/us/politics/russia-hack-nsa-homeland-security-pentagon.html)
-Liska, A. (2014). The practice of network security monitoring: understanding incident detection and response. No Starch Press.
-Perlroth, N. (2020). How the U.S. was blindsided by the cyber-offensive out of Russia. The New York Times. Retrieved from [New York Times](https://www.nytimes.com/2020/12/17/us/politics/russia-cyber-hack-trump.html)
-Scarfone, K., & Mell, P. (2007). Guide to intrusion detection and prevention systems (IDPS). NIST Special Publication, 800(2007), 94. Retrieved from [NIST Publication](https://csrc.nist.gov/publications/detail/sp/800-94/final)
-Wazuh. (2023). Open source security platform. Retrieved from [Wazuh](https://wazuh.com/)
+Amazon Web Services. (2020). What is Amazon VPC?. In Amazon VPC User Guide. Retrieved from (https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+Spafford, E. H. (1991). An analysis of the Internet worm. In UNIX Security Symposium III Proceedings. Retrieved from (https://spaf.cerias.purdue.edu/tech-reps/823.pdf)
 
-## Module Guides 🤖
-
-[Module 4 - Threat Intelligence and SIEM: Instructor's Guide](https://drive.google.com/file/d/1DAtrzSiTnPulALYw2hCVT5GG3-rB8_Lf/view?usp=share_link)
-
-[Module 4 - Threat Intelligence and SIEM: Student's Guide](https://drive.google.com/file/d/1UTt4KavASu763pDgS_E6Udv9nnc-gGwt/view?usp=share_link)
-
-[Module 4 - Threat Intelligence and SIEM: Student Activities Appendix](https://drive.google.com/file/d/1dwUM3VJFeuqU5eN44Xqb6X_yXbx3BSRt/view?usp=share_link)
 
 ## Technical Documentation 🤖
 
