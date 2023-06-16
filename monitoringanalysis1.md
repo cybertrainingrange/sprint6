@@ -1,94 +1,198 @@
-# Monitoring Analysis - SUBTITLE GOES HERE!
+# MONITOR AND ANALYSIS IN AWS
 
-# TEMPLATE ONLY --- USE THIS TEMPLATE ------ TITLE GOES HERE!
+# Summary
 
-STEPS TO CREATE A PAGE:
-1. Copy this page - Top right click on PENCIL icon to edit, copy this markdown page or click on RAW to copy the markdown page.
-2. Create a new file - on the left navigation, click on the PLUS sign to add a new page.
-3. Name your file with (.md) extenstion (ie. newpage.md)
-4. Copy your text and add your image/s - Upload your images here (look for your name folder or create one): [Images Folder](https://drive.google.com/drive/folders/1jQvqKC6bEb3_auwKDmnhnY25e84ueKMx?usp=sharing)
-5. Click Commit changes.
+**Monitoring and scanning** are essential practices in maintaining the security and health of your AWS environment. AWS provides a comprehensive suite of services that leverages to enhance your monitoring and scanning capabilities within the AWS ecosystem. Several monitoring and analysis tools are available in AWS to help you monitor and gain insights into your infrastructure, applications, and security. Here are some monitoring and analysis tools available in AWS.
+- Amazon CloudWatch.
+- AWS CloudTrail.
+- AWS Config.
+- AWS X-Ray.
+- AWS Trusted Advisor.
+- AWS Personal Health Dashboard.
+- Amazon Inspector.
+- AWS Security Hub. 
+- Amazon VPCFlow Logs.
+
+By combining these cost-effective options, we can establish a basic Monitoring & Analysis setup for our Cyber Training Range in AWS without incurring significant additional expenses. 
+
+## Amazon CloudWatch
+
+**CloudWatch** is a centralized monitoring service that provides monitoring, logging, and alarming for your AWS resources and applications. It collects and tracks metrics, collects log files, sets alarms, and can trigger automated actions based on defined thresholds.
+Utilize AWS CloudWatch to monitor your AWS resources and applications. CloudWatch offers metrics, logs, and alarms for monitoring various services and can help you identify performance issues or anomalies. This helps you identify security events, troubleshoot issues, and maintain visibility across your environment.
+Amazon CloudWatch collects and visualizes real-time logs, metrics, and event data in automated dashboards to streamline your infrastructure and application maintenance.
 
 
-
-|  ![Network Protocols](https://drive.google.com/uc?export=view&id=1_S2Odp1KjAF1I1aOu33tIsvmkIHZUmxz)  |
+|  ![CloudWatch](https://drive.google.com/uc?export=view&id=1-c7vDiqjKJQNWSwnKLsWu09_YBSmoXi_)  |
 | ----------------------- |
 
 
 
 
-| Analyzing network protocols is a crucial aspect of network troubleshooting, security analysis, and performance optimization. Network protocols govern the rules and procedures for data communication between devices in a network. To analyze network protocols effectively, professionals often rely on tools like Wireshark or other neutral vendor tools, which provide detailed insights into the traffic flowing through the network. |
-| Network protocol analysis is the process of examining the data packets that are transmitted over a network. This can be done for a variety of purposes, including troubleshooting network problems, detecting security threats, and analyzing network traffic. |
+**Use Cases:**
+
+| - Monitor application performance
+Visualize performance data, create alarms, and correlate data to understand and resolve the root cause of performance issues in your AWS resources.
+- Perform root cause analysis
+Analyze metrics, logs, logs analytics, and user requests to speed up debugging and reduce overall mean time to resolution.
+- Optimize resources proactively
+Automate resource planning and lower costs by setting actions to occur when thresholds are met based on your specifications or machine learning models.
+- Test website impacts
+Find out exactly when your website is impacted and for how long by viewing screenshots, logs, and web requests at any point in time. |
+
 
 **There are a number of tools that can be used for network protocol analysis. Some of the most popular tools include.**
 
-- Wireshark: Wireshark is a free and open-source network protocol analyzer. It is one of the most powerful tools available for network protocol analysis.
-- NetworkMiner: Network Miner is a commercial network protocol analyzer. It offers a number of features that are not available in Wireshark, such as the ability to decode encrypted traffic.
-- tcpdump: tcpdump is a command-line network protocol analyzer. It is a powerful tool, but it can be difficult to use.
-- ngrep: ngrep is a command-line network protocol analyzer that is similar to tcpdump. It is easier to use than tcpdump, but it does not offer as many features.
-- Microsoft Network Monitor: Microsoft Network Monitor is a commercial network protocol analyzer that is included with Windows Server. It is a powerful tool, but it is not as widely used as Wireshark or Network Miner.
+## AWS CloudTrail
 
-When analyzing network protocols, two widely used models come into play: **the OSI model and the TCP/IP model.** These models serve as frameworks for understanding and dissecting the different layers of network communication.
+**CloudTrail** is a service that enables you to log, continuously monitor, and retain account activity related to API actions. It provides detailed event history and helps with security analysis, resource change tracking, and compliance auditing.
+AWS CloudTrail enables you to log and monitor API activity within your AWS account. CloudTrail provides detailed event history, allowing you to track changes, investigate incidents, and detect unauthorized activity.
 
 
 
-
-![OSI Model](https://drive.google.com/uc?export=view&id=1JfZIN75hzjLyZ4HIb0uwXdTCAa9xUdoP) 
-
+![AWS CloudTrail](https://drive.google.com/uc?export=view&id=1K9mrxfdWBX0VayxxJDOfBGT2SBME2nqW)
 
 
 
-**The OSI (Open Systems Interconnection) model is a conceptual framework that defines seven layers, each responsible for a specific aspect of network communication. These layers include:** 
+AWS CloudTrail enables auditing, security monitoring, and operational troubleshooting. CloudTrail records user activity and API calls across AWS services as events. CloudTrail events help you answer the question of "Who did what, where, and when?". AWS CloudTrail monitors and records account activity across your AWS infrastructure, giving you control over storage, analysis, and remediation actions.
 
-1. Physical Layer: Deals with the electrical and physical properties of data transmission, such as cables and network interfaces.
-2. Data Link Layer: Manages the reliable transmission of data across a physical link, addressing errors and controlling flow.
-3. Network Layer: Handles logical addressing and routing of data packets across different networks.
-4. Transport Layer: Provides end-to-end communication between source and destination hosts, ensuring reliable data delivery and flow control.
-5. Session Layer: Establishes, manages, and terminates connections between applications.
-6. Presentation Layer: Translates data between the application layer and the network format, handling data encryption, compression, and formatting.
-7. Application Layer: Represents the interface between the network and the end-user applications, facilitating communication between them. 
+**CloudTrail records two types CloudTrail of events:**
+
+- Management events that capture control plane actions on resources, such as creating or deleting Amazon Simple Storage Service (S3) buckets.
+- Data events that capture data plane actions within a resource, such as reading or writing an Amazon S3 object.
+ 
+**CloudTrail can also ingest data through its native integration with other AWS services:**
+ 
+- Configuration items from AWS Config that capture resource configuration history and resource compliance history as evaluated by AWS Config rules.
+- Audit evidence from AWS Audit Manager that contains the information needed to demonstrate compliance with the requirements as specified by Audit Manager controls.
+
+## AWS Config
+
+**AWS Config** continually assesses, audits, and evaluates the configurations and relationships of your resources on AWS, on premises, and on other clouds. It continuously monitors and records configuration changes and can provide compliance assessments against desired configurations.
+AWS Config enables you to assess and monitor the configuration of your AWS resources over time. AWS Config provides a detailed inventory of your resources, configuration history, and compliance checks to help ensure consistent security and governance.
 
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1AN0_tMVUvTzAzP_injeJbkcG5y2myzy8) |
+
+
+![AWS Config](https://drive.google.com/uc?export=view&id=1M_Ka6LH9fzlMHrwZ_OS8zuKdpdqDivZc) 
+
+
+
+
+## AWS X-Ray:
+
+**AWS X-Ray** provides a complete view of requests as they travel through your application and filters visual data across payloads, functions, traces, services, APIs, and more with no-code and low-code motions. X-Ray is a distributed tracing system that helps you understand how your applications are performing and where issues may arise. It provides insights into requests as they flow across different services, helping you analyze and debug complex architectures.
+
+
+
+
+![AWS X-Ray](https://drive.google.com/uc?export=view&id=1GfhJKrCT0puZrU4iuEHy4s7N1jHvwlz0) 
+
+
+
+
+## AWS Personal Health Dashboard
+
+**The Personal Health Dashboard** provides alerts and notifications about the health of your AWS resources. It proactively notifies you of any planned maintenance, service disruptions, or security vulnerabilities that may impact your environment. You can view the overall status of AWS services, and you can sign in to view personalized communications about your particular AWS account or organization. Your account view provides deeper visibility into resource issues, upcoming changes, and important notifications.
+
+**Benefits**
+
+- Personalized view of service health
+- Proactive notifications
+- Detailed troubleshooting guidance
+- Integration and automation
+- Fine-grained access control by using IAM
+- Aggregate health events across AWS Organizations
+
+
+## AWS Trusted Advisor
+
+**Trusted Advisor** is a service that provides real-time guidance to help optimize your AWS environment. It offers checks and recommendations in areas such as cost optimization, performance, security, and fault tolerance. It offers recommendations based on AWS best practices.
+
+**Benefits:**
+
+Checks from Trusted Advisor analyze your AWS environment and recommend actions to follow best practices.
+**- Cost optimization**
+Trusted Advisor can help you save cost with actionable recommendations by analyzing usage, configuration and spend. Examples include identifying idle RDS DB instances, underutilized EBS volumes, unassociated Elastic IP addresses, and excessive timeouts in Lambda functions.
+**- Performance**
+Trusted Advisor can help improve the performance of your services with actionable recommendations by analyzing usage and configuration. Examples include analyzing EBS throughput and latency, compute usage of EC2 instances, and configurations on CloudFront.
+**- Security**
+Trusted Advisor can help improve the security of your AWS environment by suggesting foundational security best practices curated by security experts. Examples include identifying RDS security group access risk, exposed access keys, and unnecessary S3 bucket permissions.
+**- Fault tolerance**
+Trusted Advisor can help improve the reliability of your services. Examples include examining Auto scaling EC2 groups, deleted health checks on Route 53, disabled Availability Zones, and disabled RDS backups.
+**- Service quotas**
+Service quotas are the maximum number of resources that you can create in an AWS account. AWS implements quotas to provide highly available and reliable service to all customers, and protects you from unintentional spend.
+
+
+## Amazon Inspector
+
+**Amazon Inspector** is an automated security assessment service that helps you identify security vulnerabilities and deviations from security best practices. It performs security assessments on EC2 instances, identifying common security issues and providing prioritized recommendations. Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads for software vulnerabilities and unintended network exposure. Amazon Inspector automatically discovers workloads, such as Amazon EC2 instances, containers, and Lambda functions, and scans them for software vulnerabilities and unintended network exposure.
+
+| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1ANdGy5Hik5PX37U3qpaVyoBh-TH92kpE) |
 | ----------------------- |
 
 
-**The TCP/IP (Transmission Control Protocol/Internet Protocol) model is a simplified version of the OSI model, widely used in today's internet communication. It consists of four layers:**
 
-1. Network Interface Layer: Equivalent to the combination of the physical and data link layers in the OSI model.
-2. Internet Layer: Corresponds to the network layer in the OSI model, handling IP addressing, routing, and fragmentation.
-3. Transport Layer: Combines the functions of the transport and session layers in the OSI model, with TCP and UDP protocols responsible for reliable data delivery and connection management.
-4. Application Layer: Similar to the OSI model's application layer, it includes protocols like HTTP, SMTP, FTP, etc., that enable application-level communication.
+**TUse cases:**
 
-When using tools like Wireshark or neutral vendor tools, the network traffic is captured at various layers of the OSI or TCP/IP model, depending on the tool's capabilities and configuration. These tools provide detailed packet-level analysis, allowing professionals to examine the headers, payload, and other relevant information for each captured packet.
+- Quickly discover zero-day vulnerabilities in compute workloads
+- Prioritize patch remediation
+- Meet compliance requirements
+
+## AWS Security Hub:
+
+**Security Hub** is a comprehensive security service that aggregates and prioritizes security alerts from various AWS services, as well as third-party tools. It provides a central dashboard for security findings, automated compliance checks, and integrations with other security services. Use AWS Security Hub to automate security best practice checks, aggregate security alerts into a single place and format, and understand your overall security posture across all of your AWS accounts.
 
 
-**By analyzing network protocols using such tools, experts can:**
 
-1. Identify and troubleshoot network issues: Analyzing protocol-level data helps pinpoint problems such as packet loss, latency, or misconfigurations at different layers.
-2. Monitor network performance: By examining protocol-specific metrics, professionals can assess the performance of individual protocols, identify bottlenecks, and optimize network resources.
-3. Ensure network security: Analyzing protocols allows for the detection of malicious or abnormal traffic patterns, helping to identify potential security threats and vulnerabilities.
-4. Validate compliance and standards: By comparing captured network traffic against established protocols and standards, professionals can ensure compliance and identify any deviations or non-standard behavior.
+| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1t6gWfpAcc6PFAT3JloiFpRw9YmOxwNHv) |
+| ----------------------- |
 
-Analyzing network protocols using tools like Wireshark or neutral vendor tools allows professionals to gain insights into the intricacies of network communication. The OSI and TCP/IP models provide a framework for understanding the different layers involved in this communication, enabling effective troubleshooting, performance optimization, security analysis, and compliance validation.
+
+
+
+AWS Security Hub enables you to aggregate and prioritize security alerts from various AWS services and third-party tools. It provides a consolidated view of your security posture, automated compliance checks, and integrates with other security tools.
+
+
+
+## Amazon VPC Flow Logs
+
+VPC Flow Logs capture information about the IP traffic going to and from network interfaces in your Amazon VPC. They can be used for network monitoring, troubleshooting, and analyzing network traffic patterns and anomalies. Amazon VPC Flow Logs capture information about the IP traffic going to and from network interfaces in your Amazon VPC. Analyzing flow logs can help you detect and investigate network anomalies or unauthorized access attempts.
+
+
+**Reference**
+
+
+https://aws.amazon.com/cloudwatch/
+https://aws.amazon.com/config/
+https://aws.amazon.com/cloudtrail/
+https://aws.amazon.com/xray/?nc2=type_a
+https://aws.amazon.com/premiumsupport/technology/aws-health-dashboard/
+https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
+https://aws.amazon.com/inspector/?nc2=type_a
+https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html
+https://youtu.be/K7V5kNBjGCI
+https://www.youtube.com/watch?v=eIUZdaqColg&list=PLhr1KZpdzukdbisTs-Eskg4xsfLFOki1T&index=12
+
 
 ## Technical Documentation 🤖
 
-[Analyzing Network Protocols](https://docs.google.com/document/d/19xuaboWqPuh2xHv4bwEWp6eR3k2f7zS9hQ9Nw0aDXqE/edit?usp=share_link)
+[Creating AWS CloudWatch Alarm](https://docs.google.com/document/d/1G6xxnjuSboOvlquU-TPcgbBXRw4WvkIXXchY0V2Jsog/edit?usp=share_link)
+
 
 
 ## 🔗 Authors: 👐
 
-### Emilie Dionisio👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
-- [@Emilie Dionisio](https://github.com/emiliedionisio)
 
 
 ### Ameha Zewde Lemma 👨
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameha-lemma/)
 - [@Ameha Zewde Lemma](https://github.com/orgs/cybertrainingrange/people/ameha01)
 
-### Mayra Castillo👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayra-castillo-barrios/)
-- [@Mayra Castillo](https://github.com/mbarri0s)
+### Elena👩‍
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Elena/)
+- [@Elena](https://github.com/Elena)
+
+### Vohla👩‍
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vohla/)
+- [@Vohla](https://github.com/Vohla)
