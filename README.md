@@ -15,47 +15,32 @@ The increasing frequency and complexity of cyber threats necessitate the continu
 To develop a holistic understanding of cybersecurity, we delved into offensive security practices. Ethical hacking and penetration testing methodologies allowed us to identify vulnerabilities in systems, networks, and applications. By emulating real-world attacks and exploiting potential weaknesses, we gained valuable insights into the mindset and techniques employed by malicious actors. Armed with this knowledge, we devised strategies to strengthen the defensive posture of our simulated environments.
 
 
+[SOC Analyst](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC) 
 
-
-
-
+## Defensive Security
+Building on our offensive security knowledge, we explored defensive security practices. We focused on implementing robust security controls and technologies to protect against unauthorized access, data breaches, and system disruptions. Our team utilized access controls, firewalls, intrusion detection and prevention systems, and encryption mechanisms to safeguard our systems and data. We also developed incident response plans to ensure swift and effective action in the event of a security incident.
 
 [SOC Analyst](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC) 
 
+## Linux Network Operations:
+Understanding Linux network operations was essential to managing and securing our training range's networking infrastructure. We gained expertise in configuring network interfaces, managing IP addresses, implementing routing tables, and deploying firewalls. This knowledge enabled us to create a reliable and resilient network environment while ensuring that communication channels were adequately protected against potential threats.
+
+[SOC Analyst](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC) 
+
+## Monitoring Analysis
+Continuous monitoring and analysis were key components of our cybersecurity training range. We collected and analyzed data from various sources, such as system logs, network traffic, and security event logs, to detect potential security incidents and performance issues. By employing effective monitoring tools, we were able to proactively identify anomalies and swiftly respond to security breaches. This approach enhanced the overall security and availability of our systems.
 
 
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=1imaD7Nf4eR60mJVC4MspMqVwGYCn0uVP)|
-| ----------------------- | 
-
-
-
-SIEM plays a crucial role in cybersecurity by providing improved threat detection, incident response capabilities, centralized visibility, compliance management, and valuable log data for analysis and investigation. 
-
-
-
-| ![App Screenshot](https://drive.google.com/uc?export=view&id=181V7na3khVUcMZ0gn-0lETCSWr8WHo5b)|
-| ----------------------- |  
+![App Screenshot](https://drive.google.com/uc?export=view&id=1imaD7Nf4eR60mJVC4MspMqVwGYCn0uVP)
 
 
 
+## SIEM Implementation
+To streamline security event management, we integrated a SIEM solution into our training range. This centralized platform allowed us to collect, store, and analyze security event data from diverse sources. The SIEM system correlated and contextualized this information, providing real-time insights into potential security threats. We gained hands-on experience in configuring and fine-tuning the SIEM to meet our specific training objectives, empowering us to make informed decisions based on the analysis of security events.
 
-Splunk is a leading SIEM (security information and event management) solution that collects, analyzes, and correlates network and machine logs in real time. 
-Splunk is one of the most popular SIEM tool, but it is not the only one. There are a number of other SIEM tools available, and each has its own strengths and weaknesses.
 
-### Here are the list of the most popular SIEM tools (Enterprise and Open Source): 
-
-| Enterprise SIEM Tools  | Open Source SIEM Tools |
-| ------------- | -------------- |
-| Splunk Enterprise Security  | 	AlienVault OSSIM  |
-| IBM QRadar  | ELK Stack  |
-| Micro Focus ArcSight  | 	OSSEC  |
-| LogRhythm NextGen SIEM Platform  | Wazuh  |
-| Exabeam Fusion SIEM  | 	Apache Metron  |
-| Securonix Singularity SIEM  | MozDef  |
-| AlienVault Unified Security Management (USM)  | 	Prelude OSS  |
-| SIEMonster SIEM  | Snort  |
-| ManageEngine Log360  | 	Asagan  |
-
+## In Conclusion
+Our Capstone Project at The Knowledge House provided an invaluable opportunity to enhance our cybersecurity skills through practical application. By simulating real-world scenarios and leveraging the capabilities of AWS, we developed a comprehensive cybersecurity training range. The project enabled us to grow as professionals, gaining proficiency in offensive and defensive security, Linux network operations, monitoring analysis, and SIEM implementation. Equipped with this knowledge, we are prepared to contribute to the evolving field of cybersecurity and help organizations secure their digital assets.
 
 
 
@@ -66,15 +51,10 @@ Splunk is one of the most popular SIEM tool, but it is not the only one. There a
 [Technical Documentation](https://docs.google.com/document/d/1oMwmo2FV5TQgzjM4yo7yix7XyHhpc-GkhHy-9ClnR5Y/edit?usp=drive_link)
 
 
-
 ## Agile Framework ⚓ 
 
 ![Trello](https://drive.google.com/uc?export=view&id=1UZ2ub6Mt6ahBHGO8412nd-HqowT7NnA-)
 
-
-- [Trello Stage 1](https://drive.google.com/uc?export=view&id=1qciuFB7R76sXxI5XW3_kahIdqIDCzeX4)
-- [Trello Stage 2](https://drive.google.com/uc?export=view&id=1B2-ykP7T6VOYzNzK37UVa-htCVWWV1uP)
-- [Trello Stage 3](https://drive.google.com/uc?export=view&id=1Nxxf361UwZO0KH3JSXKQcFKULWqc4sdU)
 
 ## Team A Members 👩‍💻|👨‍💻
 - Alena [@alena](https://github.com/alenapuzach)
