@@ -22,7 +22,9 @@ Utilize AWS CloudWatch to monitor your AWS resources and applications. CloudWatc
 Amazon CloudWatch collects and visualizes real-time logs, metrics, and event data in automated dashboards to streamline your infrastructure and application maintenance.
 
 
-|  ![CloudWatch](https://drive.google.com/uc?export=view&id=1-c7vDiqjKJQNWSwnKLsWu09_YBSmoXi_)  |
+
+
+|  ![CloudWatch](https://drive.google.com/uc?export=view&id=1-c7vDiqjKJQNWSwnKLsWu09_YBSmoXi_) |
 | ----------------------- |
 
 
@@ -30,17 +32,16 @@ Amazon CloudWatch collects and visualizes real-time logs, metrics, and event dat
 
 **Use Cases:**
 
-| - Monitor application performance
+- Monitor application performance
 Visualize performance data, create alarms, and correlate data to understand and resolve the root cause of performance issues in your AWS resources.
 - Perform root cause analysis
 Analyze metrics, logs, logs analytics, and user requests to speed up debugging and reduce overall mean time to resolution.
 - Optimize resources proactively
 Automate resource planning and lower costs by setting actions to occur when thresholds are met based on your specifications or machine learning models.
 - Test website impacts
-Find out exactly when your website is impacted and for how long by viewing screenshots, logs, and web requests at any point in time. |
+Find out exactly when your website is impacted and for how long by viewing screenshots, logs, and web requests at any point in time. 
 
 
-**There are a number of tools that can be used for network protocol analysis. Some of the most popular tools include.**
 
 ## AWS CloudTrail
 
@@ -49,7 +50,10 @@ AWS CloudTrail enables you to log and monitor API activity within your AWS accou
 
 
 
+
+
 ![AWS CloudTrail](https://drive.google.com/uc?export=view&id=1K9mrxfdWBX0VayxxJDOfBGT2SBME2nqW)
+
 
 
 
@@ -74,7 +78,10 @@ AWS Config enables you to assess and monitor the configuration of your AWS resou
 
 
 
-![AWS Config](https://drive.google.com/uc?export=view&id=1M_Ka6LH9fzlMHrwZ_OS8zuKdpdqDivZc) 
+
+
+![AWS Config](https://drive.google.com/uc?export=view&id=1M_Ka6LH9fzlMHrwZ_OS8zuKdpdqDivZc)
+
 
 
 
@@ -86,7 +93,10 @@ AWS Config enables you to assess and monitor the configuration of your AWS resou
 
 
 
-![AWS X-Ray](https://drive.google.com/uc?export=view&id=1GfhJKrCT0puZrU4iuEHy4s7N1jHvwlz0) 
+
+
+![AWS X-Ray](https://drive.google.com/uc?export=view&id=1GfhJKrCT0puZrU4iuEHy4s7N1jHvwlz0)
+
 
 
 
@@ -98,10 +108,15 @@ AWS Config enables you to assess and monitor the configuration of your AWS resou
 **Benefits**
 
 - Personalized view of service health
+  
 - Proactive notifications
+  
 - Detailed troubleshooting guidance
+  
 - Integration and automation
+  
 - Fine-grained access control by using IAM
+  
 - Aggregate health events across AWS Organizations
 
 
@@ -109,18 +124,28 @@ AWS Config enables you to assess and monitor the configuration of your AWS resou
 
 **Trusted Advisor** is a service that provides real-time guidance to help optimize your AWS environment. It offers checks and recommendations in areas such as cost optimization, performance, security, and fault tolerance. It offers recommendations based on AWS best practices.
 
-**Benefits:**
+   **Benefits:**
 
 Checks from Trusted Advisor analyze your AWS environment and recommend actions to follow best practices.
-**- Cost optimization**
+
+- Cost optimization
+  
 Trusted Advisor can help you save cost with actionable recommendations by analyzing usage, configuration and spend. Examples include identifying idle RDS DB instances, underutilized EBS volumes, unassociated Elastic IP addresses, and excessive timeouts in Lambda functions.
-**- Performance**
+
+- Performance
+
 Trusted Advisor can help improve the performance of your services with actionable recommendations by analyzing usage and configuration. Examples include analyzing EBS throughput and latency, compute usage of EC2 instances, and configurations on CloudFront.
-**- Security**
+
+- Security
+  
 Trusted Advisor can help improve the security of your AWS environment by suggesting foundational security best practices curated by security experts. Examples include identifying RDS security group access risk, exposed access keys, and unnecessary S3 bucket permissions.
-**- Fault tolerance**
+
+- Fault tolerance
+  
 Trusted Advisor can help improve the reliability of your services. Examples include examining Auto scaling EC2 groups, deleted health checks on Route 53, disabled Availability Zones, and disabled RDS backups.
-**- Service quotas**
+
+- Service quotas
+
 Service quotas are the maximum number of resources that you can create in an AWS account. AWS implements quotas to provide highly available and reliable service to all customers, and protects you from unintentional spend.
 
 
@@ -128,16 +153,24 @@ Service quotas are the maximum number of resources that you can create in an AWS
 
 **Amazon Inspector** is an automated security assessment service that helps you identify security vulnerabilities and deviations from security best practices. It performs security assessments on EC2 instances, identifying common security issues and providing prioritized recommendations. Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads for software vulnerabilities and unintended network exposure. Amazon Inspector automatically discovers workloads, such as Amazon EC2 instances, containers, and Lambda functions, and scans them for software vulnerabilities and unintended network exposure.
 
-| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1ANdGy5Hik5PX37U3qpaVyoBh-TH92kpE) |
+
+
+
+
+
+| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1ANdGy5Hik5PX37U3qpaVyoBh-TH92kpE)|
 | ----------------------- |
 
 
 
-**TUse cases:**
+**Use cases:**
 
 - Quickly discover zero-day vulnerabilities in compute workloads
+  
 - Prioritize patch remediation
+  
 - Meet compliance requirements
+
 
 ## AWS Security Hub:
 
@@ -145,7 +178,9 @@ Service quotas are the maximum number of resources that you can create in an AWS
 
 
 
-| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1t6gWfpAcc6PFAT3JloiFpRw9YmOxwNHv) |
+
+
+| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1t6gWfpAcc6PFAT3JloiFpRw9YmOxwNHv)|
 | ----------------------- |
 
 
@@ -163,21 +198,22 @@ VPC Flow Logs capture information about the IP traffic going to and from network
 **Reference**
 
 
-https://aws.amazon.com/cloudwatch/
-https://aws.amazon.com/config/
-https://aws.amazon.com/cloudtrail/
-https://aws.amazon.com/xray/?nc2=type_a
-https://aws.amazon.com/premiumsupport/technology/aws-health-dashboard/
-https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
-https://aws.amazon.com/inspector/?nc2=type_a
-https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html
-https://youtu.be/K7V5kNBjGCI
-https://www.youtube.com/watch?v=eIUZdaqColg&list=PLhr1KZpdzukdbisTs-Eskg4xsfLFOki1T&index=12
+- https://aws.amazon.com/cloudwatch/
+- https://aws.amazon.com/config/
+- https://aws.amazon.com/cloudtrail/
+- https://aws.amazon.com/xray/?nc2=type_a
+- https://aws.amazon.com/premiumsupport/technology/aws-health-dashboard/
+- https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
+- https://aws.amazon.com/inspector/?nc2=type_a
+- https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html
+- https://youtu.be/K7V5kNBjGCI
+- https://www.youtube.com/watch?v=eIUZdaqColg&list=PLhr1KZpdzukdbisTs-Eskg4xsfLFOki1T&index=12
 
 
 ## Technical Documentation 🤖
 
 [Creating AWS CloudWatch Alarm](https://docs.google.com/document/d/1G6xxnjuSboOvlquU-TPcgbBXRw4WvkIXXchY0V2Jsog/edit?usp=share_link)
+
 
 
 
