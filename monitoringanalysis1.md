@@ -24,7 +24,9 @@ Amazon CloudWatch collects and visualizes real-time logs, metrics, and event dat
 
 
 
-|  ![CloudWatch](https://drive.google.com/uc?export=view&id=1-c7vDiqjKJQNWSwnKLsWu09_YBSmoXi_) |
+
+
+|    ![CloudWatch](https://drive.google.com/uc?export=view&id=1-c7vDiqjKJQNWSwnKLsWu09_YBSmoXi_)    |
 | ----------------------- |
 
 
@@ -52,7 +54,10 @@ AWS CloudTrail enables you to log and monitor API activity within your AWS accou
 
 
 
-![AWS CloudTrail](https://drive.google.com/uc?export=view&id=1K9mrxfdWBX0VayxxJDOfBGT2SBME2nqW)
+
+
+![AWS CloudTrail](https://drive.google.com/uc?export=view&id=1K9mrxfdWBX0VayxxJDOfBGT2SBME2nqW)   
+
 
 
 
@@ -80,6 +85,8 @@ AWS Config enables you to assess and monitor the configuration of your AWS resou
 
 
 
+
+
 ![AWS Config](https://drive.google.com/uc?export=view&id=1M_Ka6LH9fzlMHrwZ_OS8zuKdpdqDivZc)
 
 
@@ -95,7 +102,8 @@ AWS Config enables you to assess and monitor the configuration of your AWS resou
 
 
 
-![AWS X-Ray](https://drive.google.com/uc?export=view&id=1GfhJKrCT0puZrU4iuEHy4s7N1jHvwlz0)
+
+![AWS X-Ray](https://drive.google.com/uc?export=view&id=1GfhJKrCT0puZrU4iuEHy4s7N1jHvwlz0) 
 
 
 
@@ -158,7 +166,7 @@ Service quotas are the maximum number of resources that you can create in an AWS
 
 
 
-| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1ANdGy5Hik5PX37U3qpaVyoBh-TH92kpE)|
+| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1ANdGy5Hik5PX37U3qpaVyoBh-TH92kpE)    |
 | ----------------------- |
 
 
@@ -180,7 +188,7 @@ Service quotas are the maximum number of resources that you can create in an AWS
 
 
 
-| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1t6gWfpAcc6PFAT3JloiFpRw9YmOxwNHv)|
+| ![Amazon Inspector](https://drive.google.com/uc?export=view&id=1t6gWfpAcc6PFAT3JloiFpRw9YmOxwNHv)  |
 | ----------------------- |
 
 
@@ -225,10 +233,11 @@ VPC Flow Logs capture information about the IP traffic going to and from network
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameha-lemma/)
 - [@Ameha Zewde Lemma](https://github.com/orgs/cybertrainingrange/people/ameha01)
 
-### Elena👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Elena/)
-- [@Elena](https://github.com/Elena)
-
+### Alena👩‍
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alena-puzach-b999801a7/)
+- [@Alena](https://github.com/alenapuzach)
+  
 ### Vohla👩‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vohla/)
-- [@Vohla](https://github.com/Vohla)
+- [@Vohla](https://github.com/voliatalatynik)
+  
