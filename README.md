@@ -39,7 +39,8 @@ Understanding Linux network operations was essential to managing and securing ou
 
 
 
-[SOC Analyst](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdelawarebusinesstimes.com%2Fsponsored-content%2Fbizinsights%2Fremote-monitoring-boosts-cybersecurity%2F&psig=AOvVaw0YVFaFxPbL1bH8x0AULgOj&ust=1686971351854000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjxjJPoxv8CFQAAAAAdAAAAABAE) 
+![Monitoring Analysis](https://drive.google.com/uc?export=view&id=1zJu6H5V6wFnmiEbk9W9Ir3RkqOGhhHIc)
+
 
 ## Monitoring Analysis
 Continuous monitoring and analysis were key components of our cybersecurity training range. We collected and analyzed data from various sources, such as system logs, network traffic, and security event logs, to detect potential security incidents and performance issues. By employing effective monitoring tools, we were able to proactively identify anomalies and swiftly respond to security breaches. This approach enhanced the overall security and availability of our systems.
@@ -47,7 +48,7 @@ Continuous monitoring and analysis were key components of our cybersecurity trai
 
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1imaD7Nf4eR60mJVC4MspMqVwGYCn0uVP)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1zJu6H5V6wFnmiEbk9W9Ir3RkqOGhhHIc)
 
 
 
