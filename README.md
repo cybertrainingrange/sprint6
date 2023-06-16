@@ -48,7 +48,7 @@ Continuous monitoring and analysis were key components of our cybersecurity trai
 
 
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1zJu6H5V6wFnmiEbk9W9Ir3RkqOGhhHIc)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1g7SM3_XVPaL-iM6VcVG30nNhnW485bg3)
 
 
 
