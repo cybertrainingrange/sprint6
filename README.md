@@ -26,7 +26,12 @@ To develop a holistic understanding of cybersecurity, we delved into offensive s
 ## Defensive Security
 Building on our offensive security knowledge, we explored defensive security practices. We focused on implementing robust security controls and technologies to protect against unauthorized access, data breaches, and system disruptions. Our team utilized access controls, firewalls, intrusion detection and prevention systems, and encryption mechanisms to safeguard our systems and data. We also developed incident response plans to ensure swift and effective action in the event of a security incident.
 
-[SOC Analyst](https://drive.google.com/uc?export=view&id=1L3sFwPqllcZ-VVrh0yXYh9cpqzLyGHBC) 
+
+
+![Linux Network Operations](https://drive.google.com/uc?export=view&id=1C9CkO3A3NgG3-Uo2mIyQL-afnkHIuZGm) 
+
+
+
 
 ## Linux Network Operations:
 Understanding Linux network operations was essential to managing and securing our training range's networking infrastructure. We gained expertise in configuring network interfaces, managing IP addresses, implementing routing tables, and deploying firewalls. This knowledge enabled us to create a reliable and resilient network environment while ensuring that communication channels were adequately protected against potential threats.
