@@ -84,7 +84,7 @@ Our Capstone Project at The Knowledge House provided an invaluable opportunity t
 - Gyan [@gyan](https://github.com/gyanlawson)
 - Jane [@jjperipheral](https://github.com/jjperipheral)
 - Jared [@jared](https://www.github.com/)
-- Maira [@maira](https://www.github.com/)
+- Mayra [@maira](https://www.github.com/)
 - Nancy [@nancyuddin](https://github.com/nancyuddin)
 - Neiman [@Neiman](https://github.com/bull-in-the-heather)
 - Victor [@vick627](https://github.com/vick627)
