@@ -1,7 +1,7 @@
 # Cyber Range Team Capstone Project Summary - Sprint 6
 
 
-![SOC Analyst](https://drive.google.com/uc?export=view&id=11LGosHBTj6RVF93CIS0l7As9fZhB8iVd)
+![SOC Analyst](https://drive.google.com/uc?export=view&id=1EXIP4yFpO4TzAXPNY9LqIsOhkIJC8Qdj)
 
 
 
