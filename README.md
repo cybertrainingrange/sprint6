@@ -65,9 +65,9 @@ Our Capstone Project at The Knowledge House provided an invaluable opportunity t
 
 ## Technical Documentation 🛠 
 
-[Summary](https://docs.google.com/document/d/1KWW-1bb8EUY5_da-S-0hzxSuGiNTW5dUOb-m2mxwjM4/edit?usp=drive_link)
+[Summary](https://docs.google.com/document/d/129UJqNlS658Qt6p5TYwUoefHTEQwxDgscHCG21WV7Aw/edit?usp=drive_link)
 
-[Technical Documentation](https://docs.google.com/document/d/1oMwmo2FV5TQgzjM4yo7yix7XyHhpc-GkhHy-9ClnR5Y/edit?usp=drive_link)
+[Technical Documentation](https://docs.google.com/document/d/1-AuS-yywyR9zv96KDwQp9NE1tn1cD1s1tcQ0G2xfcag/edit?usp=drive_link)
 
 
 ## Agile Framework ⚓ 
