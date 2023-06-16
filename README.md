@@ -72,9 +72,9 @@ Our Capstone Project at The Knowledge House provided an invaluable opportunity t
 
 ## Agile Framework ⚓ 
 
-![Trello Schedule 1](https://drive.google.com/uc?export=view&id=1kpz7VQRnPwz8imJMFaOtQVDqoDfQZM28)
+![Trello Schedule 1](https://drive.google.com/uc?export=view&id=1HGpgv62bmht-V2nUOZUx1rGb3eAMmhCH)
 
-![Trello Schedule 2](https://drive.google.com/uc?export=view&id=1d4K6EyW7NUwt0c7CsOunt-FW_f_o282Z)
+![Trello Schedule 2](https://drive.google.com/uc?export=view&id=1-Zf4nTjYKDuIoZVIMCBAY-TXckNQUqW6)
 
 
 ## Team A Members 👩‍💻|👨‍💻
