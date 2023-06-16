@@ -16,7 +16,7 @@ A VPC in AWS is an isolated cloud network where users can launch their resources
 
 The cost-effectiveness of a VPC comes from the selection of the right services based on service availability, security requirements, and budget constraints. Similarly, creating a secure bastion host in AWS is done by launching an EC2 instance with a lightweight Linux-based Amazon Machine Image (AMI) and the 't2.micro' instance type for cost-effectiveness. Configuring instance details, storage, tags, and a security group with minimal access points contribute to the security of the bastion host.  Learning to create a cost-effective and secure VPC and bastion host is crucial for cybersecurity students. It equips them with hands-on skills in designing and implementing secure cloud-based solutions, which is a highly sought-after competency in today's IT job market. Additionally, understanding the trade-offs between cost, performance, and security is vital to designing robust systems without incurring unnecessary expenses.  Understanding AWS, VPC, and bastion hosts, along with the ability to create a secure and cost-effective VPC and bastion host, is a valuable skill set for students to learn in a cybersecurity training range.
 
-## References
+## References 📑
 
 Amazon Web Services. (2020). What is Amazon VPC?. In Amazon VPC User Guide. Retrieved from (https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 Spafford, E. H. (1991). An analysis of the Internet worm. In UNIX Security Symposium III Proceedings. Retrieved from (https://spaf.cerias.purdue.edu/tech-reps/823.pdf)
