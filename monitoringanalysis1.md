@@ -26,9 +26,8 @@ Amazon CloudWatch collects and visualizes real-time logs, metrics, and event dat
 
 
 
-|    ![CloudWatch](https://drive.google.com/uc?export=view&id=1-c7vDiqjKJQNWSwnKLsWu09_YBSmoXi_)    |
+|![CloudWatch](https://drive.google.com/uc?export=view&id=1-c7vDiqjKJQNWSwnKLsWu09_YBSmoXi_)    |
 | ----------------------- |
-
 
 
 
@@ -237,7 +236,7 @@ VPC Flow Logs capture information about the IP traffic going to and from network
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alena-puzach-b999801a7/)
 - [@Alena](https://github.com/alenapuzach)
   
-### Vohla👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vohla/)
-- [@Vohla](https://github.com/voliatalatynik)
+### Volha👩‍
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Volha/)
+- [@Volha](https://github.com/voliatalatynik)
   
