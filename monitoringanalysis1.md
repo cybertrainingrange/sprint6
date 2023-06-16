@@ -237,6 +237,6 @@ VPC Flow Logs capture information about the IP traffic going to and from network
 - [@Alena](https://github.com/alenapuzach)
   
 ### Volha👩‍
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Volha/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volha-t-59b7725b/)
 - [@Volha](https://github.com/voliatalatynik)
   
