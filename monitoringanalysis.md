@@ -26,6 +26,7 @@ Amazon CloudWatch collects and visualizes real-time logs, metrics, and event dat
 
 
 
+
 |![CloudWatch](https://drive.google.com/uc?export=view&id=1-c7vDiqjKJQNWSwnKLsWu09_YBSmoXi_)    |
 | ----------------------- |
 
@@ -48,6 +49,8 @@ Find out exactly when your website is impacted and for how long by viewing scree
 
 **CloudTrail** is a service that enables you to log, continuously monitor, and retain account activity related to API actions. It provides detailed event history and helps with security analysis, resource change tracking, and compliance auditing.
 AWS CloudTrail enables you to log and monitor API activity within your AWS account. CloudTrail provides detailed event history, allowing you to track changes, investigate incidents, and detect unauthorized activity.
+
+
 
 
 
@@ -86,6 +89,9 @@ AWS Config enables you to assess and monitor the configuration of your AWS resou
 
 
 
+
+
+
 ![AWS Config](https://drive.google.com/uc?export=view&id=1M_Ka6LH9fzlMHrwZ_OS8zuKdpdqDivZc)
 
 
@@ -95,6 +101,8 @@ AWS Config enables you to assess and monitor the configuration of your AWS resou
 ## AWS X-Ray:
 
 **AWS X-Ray** provides a complete view of requests as they travel through your application and filters visual data across payloads, functions, traces, services, APIs, and more with no-code and low-code motions. X-Ray is a distributed tracing system that helps you understand how your applications are performing and where issues may arise. It provides insights into requests as they flow across different services, helping you analyze and debug complex architectures.
+
+
 
 
 
@@ -159,6 +167,8 @@ Service quotas are the maximum number of resources that you can create in an AWS
 ## Amazon Inspector
 
 **Amazon Inspector** is an automated security assessment service that helps you identify security vulnerabilities and deviations from security best practices. It performs security assessments on EC2 instances, identifying common security issues and providing prioritized recommendations. Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads for software vulnerabilities and unintended network exposure. Amazon Inspector automatically discovers workloads, such as Amazon EC2 instances, containers, and Lambda functions, and scans them for software vulnerabilities and unintended network exposure.
+
+
 
 
 
