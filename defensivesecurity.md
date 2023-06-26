@@ -59,12 +59,13 @@ The choice of Honeypot as our Sprint 6 Capstone Project serves as a testament to
 
 
 
-
 ## Technical Documentation 🤖
 
 [Deception Technology: Enhancing Cybersecurity Defense 
 with Honeywell Honeypot
 ](https://docs.google.com/document/d/17Ad8RLsRuk_15sBfVitG0E_llJ5I6Zx7yXlJ1vC5234/edit?usp=drive_link)
+
+## 🔗 Authors: 👐
 
 ### Emilie Dionisio 👩‍💻
 <p align="left">
@@ -75,8 +76,6 @@ with Honeywell Honeypot
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
-## 🔗 Authors: 👐
 
 ### Victor Walker 👨‍💻
 <p>
