@@ -66,7 +66,15 @@ The choice of Honeypot as our Sprint 6 Capstone Project serves as a testament to
 with Honeywell Honeypot
 ](https://docs.google.com/document/d/17Ad8RLsRuk_15sBfVitG0E_llJ5I6Zx7yXlJ1vC5234/edit?usp=drive_link)
 
-
+### Emilie Dionisio 👩‍💻
+<p align="left">
+  <a href="https://www.linkedin.com/in/emdionisio/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+    <a href="https://github.com/emiliedionisio">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ## 🔗 Authors: 👐
 
@@ -76,18 +84,6 @@ with Honeywell Honeypot
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
     <a href="https://github.com/vick627">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
-
-
-### Emilie Dionisio 👩‍💻
-<p align="left">
-  <a href="https://www.linkedin.com/in/emdionisio/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>  
-    <a href="https://github.com/emiliedionisio">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
