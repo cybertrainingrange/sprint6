@@ -28,7 +28,9 @@ Building on our offensive security knowledge, we explored defensive security pra
 
 
 
+
 ![Linux Network Operations](https://drive.google.com/uc?export=view&id=1C9CkO3A3NgG3-Uo2mIyQL-afnkHIuZGm) 
+
 
 
 
@@ -39,7 +41,10 @@ Understanding Linux network operations was essential to managing and securing ou
 
 
 
+
 ![Monitoring Analysis](https://drive.google.com/uc?export=view&id=1zJu6H5V6wFnmiEbk9W9Ir3RkqOGhhHIc)
+
+
 
 
 ## Monitoring Analysis
