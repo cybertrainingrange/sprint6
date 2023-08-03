@@ -30,7 +30,9 @@ Building on our offensive security knowledge, we explored defensive security pra
 
 
 
+
 ![Linux Network Operations](https://drive.google.com/uc?export=view&id=1C9CkO3A3NgG3-Uo2mIyQL-afnkHIuZGm) 
+
 
 
 
